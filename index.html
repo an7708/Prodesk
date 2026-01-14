@@ -62,11 +62,21 @@
             <input type="checkbox" id="darkModeToggle">
             <span class="slider round"></span>
         </label> -->
-    <button id="theme-toggle" aria-label="Toggle dark mode"> 
+
+    <!-- <button id="theme-toggle" aria-label="Toggle dark mode"> 
         <img src="darkmodetoggle.png" alt="Dark mode" class="dark-mode-icon">
-    </button>
+    </button> -->
+
+        <div class="toggle-container">
+        <button class="toggle-button" onclick="switchTheme()">
+            <span class="toggle-circle"></span>
+        </button>
+    </div>
+
+    <div class="theme-info">Theme: <span id="theme-name">Light</span></div>
 
 
+    
     <!-- right actions -->
     <div class="nav-actions">
         <div class="action-btn">Login</div>

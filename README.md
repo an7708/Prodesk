@@ -2,8 +2,8 @@
 
 A modern, responsive digital agency website built with **HTML, CSS, and JavaScript**, featuring a clean UI, glassmorphism navbar, light/dark mode, smooth animations, and optimized performance & accessibility.
 
-Website Link: https://incomparable-lily-e0ef41.netlify.app/
-Website Link 2 : https://loom.com/share/dca0342a2cfd4136a22946f1b7ccf913
+> Website Link: https://incomparable-lily-e0ef41.netlify.app/
+> Website Link 2: https://loom.com/share/dca0342a2cfd4136a22946f1b7ccf913
             
 
 ## Website Images: 
